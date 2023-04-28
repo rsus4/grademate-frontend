@@ -86,7 +86,7 @@ $ Set-ExecutionPolicy RemoteSigned -Scope CurrentUser
 # Clone this repository
 $ git clone https://github.com/rsus4/GradeMate-frontend/
 # Go into the repository
-$ cd GradeMate-backend
+$ cd GradeMate-frontend
 
 # RUNNING
 # Build
@@ -104,7 +104,7 @@ $ npm run dev
 MIT
 
 <h1 align="center">
-  <a href="https://github.com/rsus4/GradeMate-backend/"><img src="https://user-images.githubusercontent.com/55681207/235161817-14d4f1da-2880-4e1a-a1dc-2d43466bc319.png" alt="GradeMate"></a>
+  <a href="https://github.com/rsus4/GradeMate-frontend/"><img src="https://user-images.githubusercontent.com/55681207/235161817-14d4f1da-2880-4e1a-a1dc-2d43466bc319.png" alt="GradeMate"></a>
 <br>
 </h1>
 
